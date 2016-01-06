@@ -7,7 +7,5 @@ cache:
    - node_modules
 script:
   - npm test
-services:
-  - redis-server
 env:
   - NODE_ENV=test
