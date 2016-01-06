@@ -17,7 +17,8 @@
 		"kml",
 		"geojson",
 		"csv",
-		"plugin"
+		"plugin",
+		"gis"
   ],
   "author": "Daniel Fenton <dfenton@esri.com>",
   "license": "Apache-2.0",

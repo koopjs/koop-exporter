@@ -2,8 +2,8 @@
 All notable changes to this project will be documented in this file.
 This project adheres to [Semantic Versioning](http://semver.org/).
 
-## [1.0.0] - 2015-12-30
-### Changed
-Extracted Koop-Logger from Koop/lib
+## [0.1.0] - 2016-01-07
+### Added
+* New Exporter plugin that puts export jobs on the queue or transforms data locally
 
-[1.0.0]:(https://www.github.com/koopjs/koop-logger/tree/v1.0.0)
+[0.1.0]: https://www.github.com/koopjs/koop-exporter/tree/v0.1.0
