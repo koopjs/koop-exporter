@@ -1,0 +1,7 @@
+src
+test
+.gitignore
+.travis.yml
+.babelrc
+.flowconfig
+config/test.json
