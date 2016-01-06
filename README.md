@@ -1,6 +1,9 @@
 # Koop-Exporter
 *Exporter plugin for Koop*
 
+[![npm][npm-img]][npm-url]
+[![travis][travis-image]][travis-url]
+
 ## Requirements
 - A Koop cache must be registered
 - GDAL must be installed on the local machine
@@ -30,3 +33,8 @@ koop.register(Cache)
 // koop will instantiate a new Exporter with the cache plugged in
 koop.register(Exporter)
 ```
+
+[npm-img]: https://img.shields.io/npm/v/koop-exporter.svg?style=flat-square
+[npm-url]: https://www.npmjs.com/package/koop-exporter
+[travis-image]: https://img.shields.io/travis/koopjs/koop-exporter.svg?style=flat-square
+[travis-url]: https://travis-ci.org/koopjs/koop-exporter
