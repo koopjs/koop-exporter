@@ -1,4 +1,6 @@
 # Koop-Exporter
+
+[![Greenkeeper badge](https://badges.greenkeeper.io/koopjs/koop-exporter.svg)](https://greenkeeper.io/)
 *Exporter plugin for Koop*
 
 [![npm][npm-img]][npm-url]
