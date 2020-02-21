@@ -27,7 +27,7 @@
   },
   "homepage": "https://github.com/koopjs/koop-exporter#readme",
   "dependencies": {
-    "config": "^1.17.1",
+    "config": "^3.2.6",
     "geo-xform": "^1.0.2",
     "koop-logger": "^1.0.0"
   },
